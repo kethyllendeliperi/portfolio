@@ -12,8 +12,8 @@ const About = () => (
       vero culpa laborum. Optio, vero porro. In sint fuga error perferendis.
     </Paragraph>
     <GithubSec>
-      <img src="https://github-readme-stats.vercel.app/api?username=kethyllendeliperi&show_icons=true&theme=rose&include_all_commits=true&count_private=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethyllendeliperi&layout=compact&langs_count=7&theme=rose" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kethyllendeliperi&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethyllendeliperi&layout=compact&langs_count=7&theme=moltack" />
     </GithubSec>
   </section>
 )

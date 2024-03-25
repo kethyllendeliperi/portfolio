@@ -8,15 +8,9 @@ export const Card = styled.div`
 export const LinkButton = styled.a`
   color: #fff;
   font-size: 14px;
-  background-color: #4476bf;
+  background-color: #c44569;
   text-decoration: none;
   padding: 8px;
   display: inline-block;
   margin-top: 24px;
-
-  @media (max-with: 768px) {
-    grid-template-columns: 1fr;
-    column-gap: 0;
-    row-gap: 16px;
-  }
 `
