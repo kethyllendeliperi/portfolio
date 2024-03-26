@@ -6,6 +6,10 @@ export const GithubSec = styled.div`
 
   img {
     height: 157px;
-    margin: 2px;
+
+    @media (max-width: 768px) {
+      height: auto;
+      width: 100%;
+    }
   }
 `
